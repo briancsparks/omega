@@ -1,0 +1,23 @@
+{
+  "name": "omega",
+  "version": "0.0.1",
+  "description": "The last process you should pipe your output to.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/briancsparks/omega.git"
+  },
+  "keywords": [
+    "omega",
+    "cli"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/briancsparks/omega/issues"
+  },
+  "homepage": "https://github.com/briancsparks/omega#readme"
+}
